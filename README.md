@@ -1,0 +1,2 @@
+# torque_estimation_of_an_asynchronous_machine
+Procena obrtnog momenta asinhrone mašine
