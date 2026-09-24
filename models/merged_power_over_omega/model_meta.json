@@ -1,0 +1,62 @@
+{
+  "experiment": "merged_power_over_omega",
+  "model": "LinearRegression",
+  "tuned": false,
+  "params": {},
+  "sklearn_version": "1.9.0",
+  "features": [
+    "speed_rpm",
+    "u_dc",
+    "d_std",
+    "theta_s_mean",
+    "theta_r_mean",
+    "i_rms",
+    "u_rms",
+    "p_in_mot",
+    "p_in_inv",
+    "p_in_mot_over_omega"
+  ],
+  "feature_ranges": {
+    "speed_rpm": [
+      -1.64937758486,
+      2997.4791744500003
+    ],
+    "u_dc": [
+      553.54647804,
+      589.46853561
+    ],
+    "d_std": [
+      0.0006082710428793667,
+      0.39611889597831906
+    ],
+    "theta_s_mean": [
+      19.052738663333336,
+      57.96714736611112
+    ],
+    "theta_r_mean": [
+      19.948464895,
+      96.00673239416668
+    ],
+    "i_rms": [
+      0.20977536666666666,
+      3.2807933333333335
+    ],
+    "u_rms": [
+      22.140893333333334,
+      238.71033333333332
+    ],
+    "p_in_mot": [
+      -1112.085,
+      1318.521
+    ],
+    "p_in_inv": [
+      -12.2314,
+      1377.622
+    ],
+    "p_in_mot_over_omega": [
+      -40.49058,
+      59.16304
+    ]
+  },
+  "target": "torque [Nm]"
+}

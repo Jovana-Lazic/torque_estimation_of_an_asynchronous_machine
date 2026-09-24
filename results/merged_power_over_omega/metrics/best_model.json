@@ -1,0 +1,5 @@
+{
+  "experiment": "merged_power_over_omega",
+  "model": "LinearRegression",
+  "tuned": false
+}

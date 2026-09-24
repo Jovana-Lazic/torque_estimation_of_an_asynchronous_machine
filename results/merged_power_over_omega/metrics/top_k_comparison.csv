@@ -1,0 +1,5 @@
+k,n,cv_r2_mean,cv_r2_std,test_r2,features
+3,3,0.5174803390057046,0.09704268068637731,0.48231414697217356,"d_std, u_rms, p_in_inv"
+5,5,0.6426570715653908,0.09925451032539269,0.6028944501852254,"d_std, u_rms, p_in_inv, p_in_mot, theta_s_mean"
+8,8,0.6651832839357039,0.10316522386610447,0.6543590739020512,"d_std, u_rms, p_in_inv, p_in_mot, theta_s_mean, theta_r_mean, i_rms, speed_rpm"
+svi (10),10,0.6847552704232834,0.08595557880711469,0.6852920327819852,"d_std, u_rms, p_in_inv, p_in_mot, theta_s_mean, theta_r_mean, i_rms, speed_rpm, p_in_mot_over_omega, u_dc"
